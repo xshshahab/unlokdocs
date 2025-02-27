@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { HiOutlineMenuAlt3 } from 'react-icons/hi';
-import { AiOutlineClose } from 'react-icons/ai';  // Import close icon
+import { AiOutlineClose } from 'react-icons/ai';
 import { Link, Outlet } from 'react-router';
 
 const Ideas = () => {
@@ -12,8 +12,7 @@ const Ideas = () => {
 
     return (
         <div className="flex">
-            {/* Main Content Area */}
-            <div className="flex-1 p-4">
+            <div className="flex-1 p-4 px-4 md:px-14">
                 <div className="flex justify-between items-center mb-4">
                     <h1 className="text-2xl font-semibold">Project <span className='text-orange-500'>Ideas</span></h1>
                     <button onClick={toggleSidebar} className=" ">
@@ -21,7 +20,6 @@ const Ideas = () => {
                     </button>
                 </div>
 
-                {/* Content based on selected project */}
                 <div id="bottom" className="bg-neutral-900 p-4 rounded-lg">
                     <Outlet />
                 </div>

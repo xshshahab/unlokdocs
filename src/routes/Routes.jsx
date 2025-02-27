@@ -16,6 +16,7 @@ import Project1 from '../components/idea/shared/Project1';
 import Project2 from '../components/idea/shared/Project2';
 import Project3 from '../components/idea/shared/Project3';
 import IdeaRoadmap from '../components/idea/shared/IdeaRoadmap';
+import Pdf from '../components/pdfs/Pdf';
 
 const Routes = () => {
 
@@ -89,6 +90,10 @@ const Routes = () => {
                             element: <IdeaRoadmap />
                         }
                     ]
+                },
+                {
+                    path: "/pages/pdfs",
+                    element: <Pdf />
                 }
             ]
         }
