@@ -13,6 +13,7 @@ const Header = () => {
             <div id="center" className='max-w-xl flex items-center gap-4 rounded-3xl w-full px-6 border border-neutral-500 p-2'>
                 <NavLink className="hover:text-orange-500" to="/pages/yt-links">YouTube</NavLink>
                 <NavLink className="hover:text-orange-500" to="/pages/java">Java</NavLink>
+                <NavLink className="hover:text-orange-500" to="/pages/frontend">Frontend</NavLink>
             </div>
 
             <div className='flex items-center gap-4'>

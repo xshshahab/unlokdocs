@@ -7,6 +7,10 @@ import Java from '../components/java/Java';
 import JavaYt from '../components/java/shared/JavaYt';
 import JavaRoadmap from '../components/java/shared/JavaRoadmap';
 import JavaWeb from '../components/java/shared/JavaWeb';
+import Frontend from '../components/frontend/Frontend';
+import FrontendRoadmap from '../components/frontend/shared/FrontendRoadmap';
+import FrontendIntern from '../components/frontend/shared/FrontendIntern';
+import FrontendYt from '../components/frontend/shared/FrontendYt';
 
 const Routes = () => {
 
@@ -38,6 +42,24 @@ const Routes = () => {
                         {
                             path: "java-web",
                             element: <JavaWeb />
+                        }
+                    ]
+                },
+                {
+                    path: "/pages/frontend",
+                    element: <Frontend />,
+                    children: [
+                        {
+                            path: "",
+                            element: <FrontendYt />
+                        },
+                        {
+                            path: "frontend-roadmap",
+                            element: <FrontendRoadmap />
+                        },
+                        {
+                            path: "frontend-intern",
+                            element: <FrontendIntern />
                         }
                     ]
                 }

@@ -1,0 +1,86 @@
+export const frontendYt = [
+  {
+    id: 1,
+    title: "React Tutorial in Hindi",
+    url: "https://www.youtube.com/watch?v=RGKi6LSPDLU",
+    thumbnail: "https://img.youtube.com/vi/RGKi6LSPDLU/0.jpg",
+  },
+  {
+    id: 2,
+    title: "React JS Playlist",
+    url: "https://www.youtube.com/watch?v=-mJFZp84TIY&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt",
+    thumbnail: "https://img.youtube.com/vi/-mJFZp84TIY/0.jpg",
+  },
+  {
+    id: 3,
+    title: "Web Development Course",
+    url: "https://www.youtube.com/watch?v=tVzUXW6siu0&list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w",
+    thumbnail: "https://img.youtube.com/vi/tVzUXW6siu0/0.jpg",
+  },
+  {
+    id: 4,
+    title: "React JS roadmap | chai aur react series",
+    url: "https://www.youtube.com/watch?v=vz1RlUyrc3w&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige",
+    thumbnail: "https://img.youtube.com/vi/vz1RlUyrc3w/0.jpg",
+  },
+  {
+    id: 5,
+    title: "HTML and VSCode - getting started | Hindi",
+    url: "https://www.youtube.com/watch?v=XmLOwJHFHf0&list=PLu71SKxNbfoDBNF5s-WH6aLbthSEIMhMI",
+    thumbnail: "https://img.youtube.com/vi/XmLOwJHFHf0/0.jpg",
+  },
+  {
+    id: 6,
+    title: "Chai Aur JavaScript",
+    url: "https://www.youtube.com/watch?v=Hr5iLG7sUa0&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+    thumbnail: "https://img.youtube.com/vi/Hr5iLG7sUa0/0.jpg",
+  },
+  {
+    id: 7,
+    title: "Javascript Backend Roadmap | chai aur backend",
+    url: "https://www.youtube.com/watch?v=EH3vGeqeIAo&list=PLu71SKxNbfoBGh_8p_NS-ZAh6v7HhYqHW",
+    thumbnail: "https://img.youtube.com/vi/EH3vGeqeIAo/0.jpg",
+  },
+  {
+    id: 8,
+    title: "Chai Aur Interview",
+    url: "https://www.youtube.com/watch?v=1wqCyz7XrV4&list=PLu71SKxNbfoCy_MsA98SBfvUKF5eQit6L",
+    thumbnail: "https://img.youtube.com/vi/1wqCyz7XrV4/0.jpg",
+  },
+  {
+    id: 9,
+    title: "Creative Web Dev - Sheriyans Coding School",
+    url: "https://www.youtube.com/watch?v=JALCoY9MQg8&list=PLbtI3_MArDOnFHLrQOqWFl1zLDFi_om5w",
+    thumbnail: "https://img.youtube.com/vi/JALCoY9MQg8/0.jpg",
+  },
+  {
+    id: 10,
+    title: "Functional Web Dev - Sheriyans Coding School",
+    url: "https://www.youtube.com/watch?v=kkOuRJ69BRY&list=PLbtI3_MArDOmebicV5NFkhBMRJH8vhBEN",
+    thumbnail: "https://img.youtube.com/vi/kkOuRJ69BRY/0.jpg",
+  },
+  {
+    id: 11,
+    title: "DSA - Shriyans Coding School",
+    url: "https://www.youtube.com/watch?v=h86FQ7vrnds&list=PLbtI3_MArDOmSKABu09sEs0SxCibd1wgr",
+    thumbnail: "https://img.youtube.com/vi/h86FQ7vrnds/0.jpg",
+  },
+  {
+    id: 12,
+    title: "HTML Course",
+    url: "https://youtu.be/HcOc7P5BMi4?si=5jlIhgzGsj_qBq_k",
+    thumbnail: "https://img.youtube.com/vi/HcOc7P5BMi4/0.jpg",
+  },
+  {
+    id: 13,
+    title: "HTML and CSS",
+    url: "https://youtu.be/G3e-cpL7ofc?si=7_5oYOhKRLwIPRQo",
+    thumbnail: "https://img.youtube.com/vi/G3e-cpL7ofc/0.jpg",
+  },
+  {
+    id: 14,
+    title: "CSS for Beginners",
+    url: "https://youtu.be/OXGznpKZ_sA?si=FEFjbru2YdoljjMn",
+    thumbnail: "https://img.youtube.com/vi/OXGznpKZ_sA/0.jpg",
+  },
+];
