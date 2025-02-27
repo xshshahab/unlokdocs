@@ -1,0 +1,56 @@
+1. Lucide Dev : https://lucide.dev/
+2. Remix icons : https://remixicon.com/
+3. figma design : https://www.figma.com/community/file/1435479085326709955/youtube-tutorial-create-modern-professional-wordpress-website
+
+4. figma design : https://www.figma.com/community/file/1330918957270423684/orinix-saas-analytics-sales-web-ui-kit
+
+5. shalu website : https://shalu-admin-dashboard.netlify.app/
+6. Scalable Chat app : https://www.youtube.com/watch?v=gCwHi-UFSdg
+7. Mern Chat App : https://www.youtube.com/watch?v=ntKkVrQqBYY
+
+8. Java : https://www.youtube.com/watch?v=4XTsAAHW_Tc
+9. Dribble design : https://dribbble.com/shots/25541297-Task-Management-Software-SaaS-Landing-Page-UI-UX-Design
+
+10.  Drible Design : https://dribbble.com/shots/25170376-Audatech-AI-Task-Management
+
+11. Dribbble Design : https://dribbble.com/shots/23137130-Business-Consultant-Landing-Page
+12. Stunning design : https://www.youtube.com/watch?v=yC0JPJ2Uf6k
+
+13. Typescript react js : https://www.youtube.com/watch?v=Ap2s-dA2TQ8
+14. Full stack reactjs : https://www.youtube.com/watch?v=UbXpRv5ApKA
+15. Buildi ai : https://www.youtube.com/watch?v=uBgFPmieR6M
+
+16. Json : https://github.com/typicode/json-server
+17. CodeCrafter : https://codecrafters.io/
+18. TailGrids : https://tailgrids.com/
+19. FreeCodeTools : https://freecodetools.org/
+20. Open Library : https://openlibrary.org/
+21. many books : https://manybooks.net/
+22. books : https://www.gutenberg.org/
+23.napkin : https://www.napkin.ai/
+24. betalist : https://betalist.com/
+25. Venturebeat : https://venturebeat.com/
+26. codedesign : https://accounts.codedesign.ai/login?redirect=a/dashboard
+27. Ycomb : https://www.ycombinator.com/
+28. 500co : https://500.co/
+29. techCrunch : https://techcrunch.com/
+30. go1 : https://www.go1.com/
+
+31. anamika : https://github.com/anamikarawat2305?tab=repositories
+32. dsa : https://docs.google.com/spreadsheets/d/1GBC4Lhnqk5sz38K2C3IT4NeFAdBW2tl1I4dv_BxhIQQ/edit?pli=1&gid=0#gid=0
+
+33. nextjs school : https://www.youtube.com/watch?v=myYlGLFxZas
+34. react ts : https://www.youtube.com/playlist?list=PLkY85cDHOEpt_2ljE__llFkYjjKK9M1xa
+
+35. react typescript : https://www.youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
+
+36. code editor : https://www.youtube.com/watch?v=fGkRQgf6Scw
+
+37. github : https://github.com/codinginflow/react-best-practices?tab=readme-ov-file
+
+38. react js playlist : https://www.youtube.com/playlist?list=PLrnPJCHvNZuDG6BWjUFVxeWyYlve_SVJO
+
+39. mern auth : https://www.youtube.com/watch?v=FcxjCPeicvU
+
+40. nextjs14 : https://www.youtube.com/watch?v=fqfer6xMp2A
+
