@@ -11,6 +11,11 @@ import Frontend from '../components/frontend/Frontend';
 import FrontendRoadmap from '../components/frontend/shared/FrontendRoadmap';
 import FrontendIntern from '../components/frontend/shared/FrontendIntern';
 import FrontendYt from '../components/frontend/shared/FrontendYt';
+import Ideas from '../components/idea/Ideas';
+import Project1 from '../components/idea/shared/Project1';
+import Project2 from '../components/idea/shared/Project2';
+import Project3 from '../components/idea/shared/Project3';
+import IdeaRoadmap from '../components/idea/shared/IdeaRoadmap';
 
 const Routes = () => {
 
@@ -60,6 +65,28 @@ const Routes = () => {
                         {
                             path: "frontend-intern",
                             element: <FrontendIntern />
+                        }
+                    ]
+                },
+                {
+                    path: "/pages/ideas",
+                    element: <Ideas />,
+                    children: [
+                        {
+                            path: "",
+                            element: <Project1 />
+                        },
+                        {
+                            path: "project-2",
+                            element: <Project2 />
+                        },
+                        {
+                            path: "project-3",
+                            element: <Project3 />
+                        },
+                        {
+                            path: "roadmap",
+                            element: <IdeaRoadmap />
                         }
                     ]
                 }

@@ -10,10 +10,11 @@ const Header = () => {
             <Link to={"/"} >
                 <h1 className='text-2xl font-bold'>Unlok<span className='text-orange-500'>Docs</span></h1></Link>
 
-            <div id="center" className='max-w-xl flex items-center gap-4 rounded-3xl w-full px-6 border border-neutral-500 p-2'>
+            <div id="center" className='max-w-xl flex items-center gap-4 rounded-3xl w-full px-6 border border-neutral-800 p-2'>
                 <NavLink className="hover:text-orange-500" to="/pages/yt-links">YouTube</NavLink>
                 <NavLink className="hover:text-orange-500" to="/pages/java">Java</NavLink>
                 <NavLink className="hover:text-orange-500" to="/pages/frontend">Frontend</NavLink>
+                <NavLink className="hover:text-orange-500" to="/pages/ideas">Ideas</NavLink>
             </div>
 
             <div className='flex items-center gap-4'>
